@@ -1,0 +1,11 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:littleomar/note.git",
+  "author": "gongsc <gongshichaoha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^2.2.0"
+  }
+}
